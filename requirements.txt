@@ -1,0 +1,6 @@
+pytube
+whisper
+transformers
+torch
+python-docx
+fpdf
